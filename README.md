@@ -4,3 +4,6 @@ To know about the ingredients used in making the Vanila Cake, **open**       [in
 To know about the articles reqired, open 'articles.md' file.
 To know the step-by-step recipie, open [recipe](https://rohini1509.github.io/recipe/recipe.md) 
 say [google](https://www.google.com)
+
+
+For Pizza recipe, please [click here](https://www.indianhealthyrecipes.com/pizza-recipe-make-pizza/)
